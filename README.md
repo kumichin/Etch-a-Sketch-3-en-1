@@ -8,7 +8,9 @@ Etch-a-Sketch, con version dibujar con los colores que quieras, con trazos multi
 -- Subida version preliminar del juego.
 - Detectado errores, necesita arreglo. hay que arreglar el boton multicolor y el boton sombreado.
 -- Añadir opcion de guardado y de carga de imagenes para poder pintar sobre ellas.
--- Más opciones interactivas
+-- Más opciones interactivas.
+-- Hacerlo responsive
+-- Más intuitivo
 
 
 
